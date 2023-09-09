@@ -1,4 +1,5 @@
 # Connect Four Game in Python
+Connect Four implemented in Python
 
 ## Overview
 This project is a text-based implementation of the classic board game, Connect Four. Players take turns to drop a disk into one of the columns in a 6x7 grid. The objective is to connect four of one's own discs in a row, either vertically, horizontally, or diagonally, before the opponent does.
